@@ -15,3 +15,4 @@ More users get past the issue list and further on in the pipeline.
 
 ## Local Issues To Highlight
 - *Save Ridley Road Market* - Ridley Road Market which is used by many in the local community faces closure.
+- *End Homelessness in Hackney* - Hackney is one of the ten worst areas in the UK for homelessness.
