@@ -1,3 +1,18 @@
+# Hypothesis
+
+What is the hypothesis underlying this.
+
+# Metrics
+
+What metrics will you judge this hypothesis by.
+
+# General Principles Checklist
+
+- [ ] What's the hypothesis?
+- [ ] Do less - could you do less?
+- [ ] Did you prepare for hypothetical scenarios before they occur? Don't
+- [ ] What is the most direct way to test this, ignoring likliehood of success.
+
 # Design Checklist
 
 - [ ] Start simple.
