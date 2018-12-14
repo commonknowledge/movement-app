@@ -1,7 +1,9 @@
-## Movement App
+# Movement App
+
 A minimum viable community activism onboarding service.
 
-#### Ingredients
+## Ingredients
+
 - Pen and paper
 - People and processes
 - Cohort after cohort of test users
