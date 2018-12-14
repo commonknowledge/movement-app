@@ -15,6 +15,7 @@ What metrics will you judge this hypothesis by.
 
 # Design Checklist
 
+- [ ] The first iteration is paired on
 - [ ] Start simple.
 - [ ] Be human - be personal
 - [ ] Reassure data use and privacy
