@@ -1,0 +1,1 @@
+- We're going to drop you into a WhatsApp group with a person who wants to get involved and come to the Shoreditch meeting on Sunday. We'd like you if it's cool to chat with them and answer any questions they might have and tell the other things they should do.
