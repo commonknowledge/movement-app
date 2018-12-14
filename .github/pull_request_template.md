@@ -10,7 +10,7 @@ What metrics will you judge this hypothesis by.
 
 - [ ] What's the hypothesis?
 - [ ] Do less - could you do less?
-- [ ] Did you prepare for hypothetical scenarios before they occur? Don't
+- [ ] Did you prepare for hypothetical scenarios before they occur? Don't.
 - [ ] What is the most direct way to test this, ignoring likliehood of success.
 
 # Design Checklist
