@@ -20,7 +20,7 @@ You can see the first version of the script in this repository.
 We aren't quite sure the best approach to connect local people with grassroots organisers, so we are trying multiple approaches to this and seeing which are the most effective.
 
 1. Each [pull request](https://github.com/commonknowledge/movement-app/pulls) represents a different take.
-2. We work out a quick take on the script we present, running it through our [design checklist](https://github.com/commonknowledge/movement-app/blob/master/.github/pull_request_template.md#design-checklist) before we go any further. We make basic [ethical checks](https://www.interaction-design.org/literature/article/conducting-ethical-user-research) that are user research best practices.
+2. We work out a quick take on the script we present, running it through our [design checklist](https://github.com/commonknowledge/movement-app/blob/master/.github/pull_request_template.md#design-checklist) before we go any further. Though this is more of a live service than a UX interview (say), we make basic [ethical checks](https://uxpa.org/resources/uxpa-code-professional-conduct). These are the ethical standards defined by the User Experience Professionals Association (UXPA).
 3. We choose a group of users (a cohort) to go through this particular pathway. It is typically 5-10 users.
 4. We observe what happens.
 5. Often people don't reply. We try our hardest to unblock a no-reply, always giving the user an out for us not to contact them any longer.
