@@ -24,7 +24,8 @@ We aren't quite sure the best approach to connect local people with grassroots o
 3. We choose a group of users (a cohort) to go through this particular pathway. It is typically 5-10 users.
 4. We observe what happens.
 5. Often people don't reply. We try our hardest to unblock a no-reply, always giving the user an out for us not to contact them any longer.
-6. We consider what we have learnt and apply those learnings to future versions of this MVP. We made a hypothesis at the start of this process, which allow us to consider if the thing we thought was the case was not or not. We may learn other things as well.
+6. In the event of a long term no reply we sign off and thank the user for their time.
+7. We consider what we have learnt and apply those learnings to future versions of this MVP. We made a hypothesis at the start of this process, which allow us to consider if the thing we thought was the case was not or not. We may learn other things as well.
 
 Any data drawn from this process is anonymised and kept securely.
 
