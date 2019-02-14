@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/commonknowledge/movement-app/master/graphics/logo.png" width="200" />
+
 # Movement App
 
 A minimum viable community activism onboarding service.
