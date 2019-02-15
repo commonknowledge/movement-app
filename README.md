@@ -1,7 +1,9 @@
-
-<img src="graphics/logo.png" alt="Movement" width="200px">
-
 # Movement App
+
+
+<p align="center">
+<img src="graphics/logo.png" alt="Movement" width="200px" position="center">
+</p>
 
 A minimum viable community activism onboarding service.
 
