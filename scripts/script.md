@@ -123,60 +123,86 @@ Thanks so much, you’ve been really awesome! 👏👏👏👏. We’ve got thre
 PLAY AGAIN
 
 There are always plenty more events, groups and political actions to explore in Movement. We can help you find the perfect one. Do you want to try again?
+
 That’s great!
 
 IF YES
+
 Start new flow.
+
 IF NO
+
 Okay, that’s fine. Would you be likely to want to do this in future, or have you decided _Movement_ is not for you?
+
 Record user feedback
+
 Great! Thanks so much.
 
 ATTEMPT FOR PAYMENT
 
 Help _Movement_ expand beyond Hackney - bringing you more events, campaigns and actions near you by donating the price of one take away coffee a month INSERT LINK.
 _Movement_ is activism for the 21st century - using cutting-edge technology to make big change happen by helping ordinary people becoming active. Politics is about doing things together. That’s why we need your help INSERT LINK.
+
 We are going up against giants in the tech industry. If we have any hope of succeeding we need the support of our users to continue our work. By donating to _Movement_ you are helping us redefine how technology can aid activism INSERT LINK.
 
 REQUEST FOR INFO: DIDN'T REPLY TO ISSUES
 
 Hi, I'm X, Head of Y at Movement.
+
 (Are you able to talk?)
+
 I'm trying to speak with every user of the service so we can make it better for future users.
+
 We noticed you signed up for the prototype but didn't move forward.
+
 That's absolutely fine.
+
 Would you mind giving us some quick feedback?
+
 We assumed that prompting users with a list of issues on WhatsApp would elicit responses.
+
 What held you back from responding?
+
 (open questioning)
+
 What did you expect to happen next?
+
 Would you consider continuing using the service after this chat?
+
 If not, how might we convince you to return to the service.
 
 STREET RECRUITING
 
 Hiya, do you live nearby?
+
 Do you have 30 seconds to talk about a prototype app for politics?
+
 Great.
+
 It's called Movement.
+
 The aim is to link you up with political campaigns and activists in your local area, so you can do everyday political work as quickly as possible.
+
 (FOR EXAMPLE...)
+
 What I want to do is take you through this 30 second prototype
+
 There are four steps.
 
 1. We'll get a few quick details to help the process along.
 2. One of our lovely team will message you on Whatsapp
 3. They'll ask you a few quick questions about your political interests, and then match you up with events, campaigns and people.
 4. Then the rest is up for you
-   Ok...
-   (go through app)
-   Ok, thanks!
+
+Ok...
+(go through app)
+Ok, thanks!
 
 # Failure Cases
 
-> THEY SAY THEY AREN'T IN HACKNEY
-> That's okay. We have events around the city and we will find you something. Just pick an issue.
-> That's okay. We have events and groups around the city and we will find you something. Just pick an issue.
+THEY SAY THEY AREN'T IN HACKNEY
+That's okay. We have events around the city and we will find you something. Just pick an issue.
+That's okay. We have events and groups around the city and we will find you something. Just pick an issue.
 
 # System to Organiser With User
 
