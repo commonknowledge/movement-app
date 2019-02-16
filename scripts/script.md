@@ -10,15 +10,15 @@
 
 - What are the issues most important to you in Hackney? Pick as many as you want!
 
-  1. 🏥 Healthcare service cuts
-  2. 🎓 Education cuts
-  3. 💵 Poor wages + working conditions
-  4. 👣 Homelessness
-  5. 🏚 Rent + housing
-  6. ☀️ Climate change + pollution
-  7. ✋🏾 Racism + migrant rights
-  8. ⚧ Gender + sexual discrimination
-  9. Something else – tell us!
+1. 🏥 Healthcare service cuts
+2. 🎓 Education cuts
+3. 💵 Poor wages + working conditions
+4. 👣 Homelessness
+5. 🏚 Rent + housing
+6. ☀️ Climate change + pollution
+7. ✋🏾 Racism + migrant rights
+8. ⚧ Gender + sexual discrimination
+9. Something else – tell us!
 
 - Thanks. I'm now going to match these issues which are important to you to relevant events, campaigns and people in Hackney. This might take a moment ⏳
 
