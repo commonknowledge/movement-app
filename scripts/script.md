@@ -45,7 +45,7 @@ Would you like to attend the event?
 
 No?
 
-No problem, we will match your interests to more events and campaigns and get back to you in a moment with more options.```
+No problem, we will match your interests to more events and campaigns and get back to you in a moment with more options.
 
 NOTHING FOUND - PROMPT TO SELF-ORGANISE
 
