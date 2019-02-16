@@ -87,7 +87,9 @@ POST EVENT FEEDBACK - NEXT DAY
 Hi there! We were wondering if you attended your event yesterday?
 
 IF NO
+
 That's OK! If possible, can you let us know the reason for not attending? Finding out more about why people choose not to attend events will help us improve our product.
+
 For example, it could be the event clashed with something else, or you decided not to go, or something came up. It's completely fine, whatever it might be, we are just interested to know 😊
 
 RESPOND TO REASON
@@ -201,7 +203,9 @@ Ok, thanks!
 # Failure Cases
 
 THEY SAY THEY AREN'T IN HACKNEY
+
 That's okay. We have events around the city and we will find you something. Just pick an issue.
+
 That's okay. We have events and groups around the city and we will find you something. Just pick an issue.
 
 # System to Organiser With User
@@ -223,6 +227,7 @@ STEP BACK AND SEE WHAT HAPPENS
 # System to Organiser
 
 POST EVENT FEEDBACK - NEXT DAY
+
 Thanks for using _Movement_. We would love to find out how we can help improve your (INPUT EVENT OR CAMPAIGN). We're sending you a short survey so we can find out more.
 
 What kinds of information would you like to know about your event? Choose as many as you like!
