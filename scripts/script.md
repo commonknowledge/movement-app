@@ -84,17 +84,17 @@ POST EVENT FEEDBACK - NEXT DAY
 
 Hi there! We were wondering if you attended your event yesterday?
 
-> IF NO
-> That's OK! If possible, can you let us know the reason for not attending? Finding out more about why people choose not to attend events will help us improve our product.
-> "For example, it could be the event clashed with something else, or you decided not to go, or something came up. It's completely fine, whatever it might be, we are just interested to know 😊
-> "
-> RESPOND TO REASON
-> No problem at all.
-> IF YES
-> 🏆 Thanks for using _Movement_. We'd love to get more feedback. We're sending you a short survey that you can fill out to help us improve our service!
-> How would you rate your experience of the event? Please score between 1 (poor) and 5 (excellent)
-> How likely is it that you would recommend this event to a friend? Please score between 1 (very unlikely and 5 (very likely)
-> "Prior to the event, how much of the information that you needed did you get?
+IF NO
+That's OK! If possible, can you let us know the reason for not attending? Finding out more about why people choose not to attend events will help us improve our product.
+For example, it could be the event clashed with something else, or you decided not to go, or something came up. It's completely fine, whatever it might be, we are just interested to know 😊
+
+RESPOND TO REASON
+No problem at all.
+IF YES
+🏆 Thanks for using _Movement_. We'd love to get more feedback. We're sending you a short survey that you can fill out to help us improve our service!
+How would you rate your experience of the event? Please score between 1 (poor) and 5 (excellent)
+How likely is it that you would recommend this event to a friend? Please score between 1 (very unlikely and 5 (very likely)
+Prior to the event, how much of the information that you needed did you get?
 
 1. All of the information
 2. Most of the information
@@ -112,12 +112,12 @@ PLAY AGAIN
 There are always plenty more events, groups and political actions to explore in Movement. We can help you find the perfect one. Do you want to try again?
 That’s great!
 
-> IF YES
-> Start new flow.
-> IF NO
-> Okay, that’s fine. Would you be likely to want to do this in future, or have you decided _Movement_ is not for you?
-> Record user feedback
-> Great! Thanks so much.
+IF YES
+Start new flow.
+IF NO
+Okay, that’s fine. Would you be likely to want to do this in future, or have you decided _Movement_ is not for you?
+Record user feedback
+Great! Thanks so much.
 
 ATTEMPT FOR PAYMENT
 
@@ -174,15 +174,16 @@ SET DESCRIPTION TO:
 A conversation between you and the organiser of XXXXX, you will be going to on XXXXXXX.
 MISSING: SET THE ICON TO AN UNKNOWN ICON
 
-`Hey both! This is <ORGANISED> <ORGANISER>. They are coming along to your event for <GROUP> on the 13th of December 2018 at 8:40PM at <LOCATION>. If you have any questions at all <ORGANISER> then now is the perfect time.`
+Hey both! This is <ORGANISED> <ORGANISER>. They are coming along to your event for <GROUP> on the 13th of December 2018 at 8:40PM at <LOCATION>. If you have any questions at all <ORGANISER> then now is the perfect time.
 
 STEP BACK AND SEE WHAT HAPPENS
 
 ## System to Organiser
 
 POST EVENT FEEDBACK - NEXT DAY
-"`Thanks for using _Movement_. We would love to find out how we can help improve your (INPUT EVENT OR CAMPAIGN). We're sending you a short survey so we can find out more.`"
-"What kinds of information would you like to know about your event? Choose as many as you like!
+Thanks for using _Movement_. We would love to find out how we can help improve your (INPUT EVENT OR CAMPAIGN). We're sending you a short survey so we can find out more.
+
+What kinds of information would you like to know about your event? Choose as many as you like!
 
 1. The number of people who came.
 2. How attendees rated your event
@@ -190,15 +191,22 @@ POST EVENT FEEDBACK - NEXT DAY
 4. General feedback on what people thought
 5. Whether people wanted to come back again
 6. How engaged people were with your event / meeting
-7. How many people came because of _Movement_"
+7. How many people came because of _Movement_
 
 ## User to Golden Ticket
 
 User clicks link
+
 Thanks so much for joining _Movement_. We really appreciate it!
+
 Right now there are too many people who want to get involved for us at Common Knowledge to talk. We talk to every person individually, so it takes a bit of time.
+
 However, we will get back to you as soon as we are able - we promise!
+
 There are XXXX people waiting to be talked to and it typically takes YYY to get to someone.
+
 Just as <NAME OF FRIEND> got a golden ticket, you’ve got three golden tickets for people to join our _Movement_ beta. To let people get involved, just give them this link: https://movement.commons.coop/
+
 This link is unique to you.The more people you invite the faster this grows and the faster we can change things in Hackney and beyond.
+
 Thanks so much! We really appreciate it!
