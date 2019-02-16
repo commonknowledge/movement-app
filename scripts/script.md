@@ -6,7 +6,7 @@
 
 > Set chat description to: Chatting with Movement. Movement is a beta app from Common Knowledge, a cooperative based in Hackney.
 
-- Welcome to Movement! I'm XXXX from the team, here to get you started. To begin with we need to know a couple of things to match you with events and campaigns in your area. Any questions you have just let me know.
+- Welcome to Movement! I'm [NAME] from the team, here to get you started. To begin with we need to know a couple of things to match you with events and campaigns in your area. Any questions you have just let me know.
 
 - What are the issues most important to you in Hackney? Pick as many as you want!
 
@@ -233,7 +233,7 @@ Variations on the theme:
 
 ## Post Event Feedback - Next Day
 
-- Thanks for using _Movement_. We would love to find out how we can help improve your YYYY. We're sending you a short survey so we can find out more.
+- Thanks for using _Movement_. We would love to find out how we can help improve your group [GROUP NAME]. We're sending you a short survey so we can find out more.
 
 - What kinds of information would you like to know about your event? Choose as many as you like!
 
@@ -255,7 +255,7 @@ Variations on the theme:
 
 - However, we will get back to you as soon as we are able - we promise!
 
-- There are XXXX people waiting to be talked to and it typically takes YYY to get to someone.
+- There are [NUMBER OF PEOPLE] people waiting to be talked to and it typically takes [CONVERSATIONS TO MATCH] to get to someone.
 
 - Just as <NAME OF FRIEND> got a golden ticket, you’ve got three golden tickets for people to join our _Movement_ beta. To let people get involved, just give them this link: https://movement.commons.coop/
 
