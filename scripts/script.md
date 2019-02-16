@@ -68,14 +68,19 @@ Right on! ✊
 Generate Calendar Event file
 
 🗓 Here’s a calendar invite to the event.
+
 ⏰ We’ll send you a reminder closer to the time.
+
 Seeing as it is your first time, would you like to speak to one of the organisers of this event so you have a friendly face in the room? 👋
-https://webcal.soverin.net/
+
+Add reminder to web calendar for actioning.
 
 USER SAYS YES
 
 🎉 Great! Just putting that together for you, one moment.
+
 POST CHAT WITH ORGANISER QUESTION
+
 How would you rate your chat with the event organiser? Please score between 1 (poor) and 5 (excellent)
 
 REMINDER
