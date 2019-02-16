@@ -1,3 +1,5 @@
+# System to User
+
 ADD USER NUMBER TO A GROUP CHAT SYSTEM
 SET CHAT NAME TO:
 Movement
@@ -178,7 +180,7 @@ Hey both! This is <ORGANISED> <ORGANISER>. They are coming along to your event f
 
 STEP BACK AND SEE WHAT HAPPENS
 
-## System to Organiser
+# System to Organiser
 
 POST EVENT FEEDBACK - NEXT DAY
 Thanks for using _Movement_. We would love to find out how we can help improve your (INPUT EVENT OR CAMPAIGN). We're sending you a short survey so we can find out more.
@@ -193,7 +195,7 @@ What kinds of information would you like to know about your event? Choose as man
 6. How engaged people were with your event / meeting
 7. How many people came because of _Movement_
 
-## User to Golden Ticket
+# User to Golden Ticket
 
 User clicks link
 
