@@ -225,7 +225,7 @@ Variations on the theme:
 
 > Set group chat icon to the Movement logo
 
-- Hey both! This is <ORGANISED> <ORGANISER>. They are coming along to your event for <GROUP> on the 13th of December 2018 at 8:40PM at <LOCATION>. If you have any questions at all <ORGANISER> then now is the perfect time.
+- Hey both! This is [ORGANISED][organiser]. They are coming along to your event for [GROUP] on the 13th of [MONTH AND YEAR] at [TIME] at [LOCATION]. If you have any questions at all <ORGANISER> then now is the perfect time.
 
 > Step back and see what happens
 
