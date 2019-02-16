@@ -194,10 +194,10 @@ Start new flow.
 
 - What I want to do is take you through this 30 second prototype. There are four steps.
 
-  1. We'll get a few quick details to help the process along.
-  2. One of our lovely team will message you on Whatsapp
-  3. They'll ask you a few quick questions about your political interests, and then match you up with events, campaigns and people.
-  4. Then the rest is up for you
+1. We'll get a few quick details to help the process along.
+2. One of our lovely team will message you on Whatsapp
+3. They'll ask you a few quick questions about your political interests, and then match you up with events, campaigns and people.
+4. Then the rest is up for you
 
 - Ok...
 
@@ -237,13 +237,13 @@ Variations on the theme:
 
 - What kinds of information would you like to know about your event? Choose as many as you like!
 
-  1. The number of people who came.
-  2. How attendees rated your event
-  3. Feedback on what could be improved
-  4. General feedback on what people thought
-  5. Whether people wanted to come back again
-  6. How engaged people were with your event / meeting
-  7. How many people came because of _Movement_
+1. The number of people who came.
+2. How attendees rated your event
+3. Feedback on what could be improved
+4. General feedback on what people thought
+5. Whether people wanted to come back again
+6. How engaged people were with your event / meeting
+7. How many people came because of _Movement_
 
 # User to Golden Ticket
 
