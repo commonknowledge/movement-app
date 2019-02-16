@@ -57,8 +57,12 @@ Should we introduce you in a new whatsapp group?
 
 ANSWER ANY QUESTIONS ON THE FLY - THESE ARE LEARNING ABOUT THIS OPTION
 
-You can leave at any time if it isn’t for you by leaving the group. Like you, the group will not have done anything like this before.
+You can leave at any time if it isn’t for you by leaving the group.
+
+Like you, the group will not have done anything like this before.
+
 Thanks so much. We aren’t ready to start introducing people to one another yet. This is a limited version of the final functionality of the _Movement_.
+
 However when we have this ready we’ll let you know right away.
 
 USER CHOSES SUCCESSFULLY
