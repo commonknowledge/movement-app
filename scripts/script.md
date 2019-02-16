@@ -207,10 +207,13 @@ That's okay. We have events and groups around the city and we will find you some
 # System to Organiser With User
 
 ADD USER AND ORGANISER AND THE SYSTEM TO A GROUP CHAT
+
 SET NAME TO:
 Movement Chat
+
 SET DESCRIPTION TO:
 A conversation between you and the organiser of XXXXX, you will be going to on XXXXXXX.
+
 MISSING: SET THE ICON TO AN UNKNOWN ICON
 
 Hey both! This is <ORGANISED> <ORGANISER>. They are coming along to your event for <GROUP> on the 13th of December 2018 at 8:40PM at <LOCATION>. If you have any questions at all <ORGANISER> then now is the perfect time.
