@@ -91,23 +91,34 @@ That's OK! If possible, can you let us know the reason for not attending? Findin
 For example, it could be the event clashed with something else, or you decided not to go, or something came up. It's completely fine, whatever it might be, we are just interested to know 😊
 
 RESPOND TO REASON
+
 No problem at all.
+
 IF YES
+
 🏆 Thanks for using _Movement_. We'd love to get more feedback. We're sending you a short survey that you can fill out to help us improve our service!
+
 How would you rate your experience of the event? Please score between 1 (poor) and 5 (excellent)
+
 How likely is it that you would recommend this event to a friend? Please score between 1 (very unlikely and 5 (very likely)
+
 Prior to the event, how much of the information that you needed did you get?
 
 1. All of the information
 2. Most of the information
 3. Some of the information
 4. A little of the information
-5. None of the information"
-   What did you like about the event?
-   What didn't you like about the event?
-   How likely are you to continue going to these events? Please score between 1 (very unlikely) and 5 (very likely)
-   Is there any other feedback you would like to give on this event?
-   Thanks so much, you’ve been really awesome! 👏👏👏👏. We’ve got three golden tickets for people to join our _Movement_ Beta - To let people get involved, just give them this link: 🎫 LINK
+5. None of the information
+
+What did you like about the event?
+
+What didn't you like about the event?
+
+How likely are you to continue going to these events? Please score between 1 (very unlikely) and 5 (very likely)
+
+Is there any other feedback you would like to give on this event?
+
+Thanks so much, you’ve been really awesome! 👏👏👏👏. We’ve got three golden tickets for people to join our _Movement_ Beta - To let people get involved, just give them this link: 🎫 LINK
 
 PLAY AGAIN
 
