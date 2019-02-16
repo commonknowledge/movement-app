@@ -6,7 +6,8 @@ SET CHAT DESCRIPTION TO:
 Chatting with Movement. Movement is a beta app from Common Knowledge, a cooperative based in Hackney.
 
 Welcome to Movement! I'm XXXX from the team, here to get you started. To begin with we need to know a couple of things to match you with events and campaigns in your area. Any questions you have just let me know.
-"What are the issues most important to you in Hackney? Pick as many as you want!
+
+What are the issues most important to you in Hackney? Pick as many as you want!
 
 1. 🏥 Healthcare service cuts
 2. 🎓 Education cuts
@@ -17,13 +18,16 @@ Welcome to Movement! I'm XXXX from the team, here to get you started. To begin w
 7. ✋🏾 Racism + migrant rights
 8. ⚧ Gender + sexual discrimination
 9. Something else – tell us!"
-   Thanks. I'm now going to match these issues which are important to you to relevant events, campaigns and people in Hackney. This might take a moment ⏳
-   ✅ We've picked out the top three results we think would be most interesting to you.
 
-> DOES NOT WANT TO GO
-> No problem at all. Trying again. ⏳
+Thanks. I'm now going to match these issues which are important to you to relevant events, campaigns and people in Hackney. This might take a moment ⏳
 
-"We have found an event run by Divest Hackney on 12 Dec that matches your interest in ☀️ Climate change + pollution. Festive Fossil Free Action & Celebration is being held at Hackney Town Hall, Mare Street, E8 1EA at 6 PM.
+✅ We've picked out the top three results we think would be most interesting to you.
+
+DOES NOT WANT TO GO
+
+No problem at all. Trying again. ⏳
+
+We have found an event run by Divest Hackney on 12 Dec that matches your interest in ☀️ Climate change + pollution. Festive Fossil Free Action & Celebration is being held at Hackney Town Hall, Mare Street, E8 1EA at 6 PM.
 
 Would you like to attend the event?"
 "```We have found a campaign in your area that matches your interest in ☀️ Climate change + pollution.
@@ -31,14 +35,18 @@ Would you like to attend the event?"
 Would you like to find out more about how you can get involved in their work?```"
 
 SOMETHING ELSE?
-"```Ok, here is something else that matches your interests in Divest Hackney on 12 Dec that matches your interest in ☀️ Climate change + pollution. Festive Fossil Free Action & Celebration is being held at Hackney Town Hall, Mare Street, E8 1EA at 6 PM.
+
+Ok, here is something else that matches your interest your interest in ☀️ Climate change + pollution. Festive Fossil Free Action & Celebration is being held at Hackney Town Hall, Mare Street, E8 1EA at 6 PM. Hosted by Divest Hackney.
 
 Would you like to attend the event?`"`No problem, we will match your interests to more events and campaigns and get back to you in a moment with more options.```
 
 NOTHING FOUND - PROMPT TO SELF-ORGANISE
-`Unfortunately, there doesn’t seem to be anything that matches your interest in ☀️ Climate change + pollution in Hackney at the moment.`
-`However, we know there are four more people who would like to organise around ☀️ Climate change + pollution in Hackney! You could meet up as soon as tomorrow.`
-`Should we introduce you in a new whatsapp group?`
+
+Unfortunately, there doesn’t seem to be anything that matches your interest in ☀️ Climate change + pollution in Hackney at the moment.`
+
+However, we know there are four more people who would like to organise around ☀️ Climate change + pollution in Hackney! You could meet up as soon as tomorrow.
+
+Should we introduce you in a new whatsapp group?
 
 ANSWER ANY QUESTIONS ON THE FLY - THESE ARE LEARNING ABOUT THIS OPTION
 
@@ -47,22 +55,28 @@ ANSWER ANY QUESTIONS ON THE FLY - THESE ARE LEARNING ABOUT THIS OPTION
 ```However when we have this ready we’ll let you know right away.```
 
 USER CHOSES SUCCESSFULLY
+
 Right on! ✊
+
 Generate Calendar Event file
+
 "```🗓 Here’s a calendar invite to the event.
 ⏰ We’ll send you a reminder closer to the time.```"
 ```Seeing as it is your first time, would you like to speak to one of the organisers of this event so you have a friendly face in the room? 👋```
 https://webcal.soverin.net/
 
 USER SAYS YES
+
 ```🎉  Great! Just putting that together for you, one moment.```
 POST CHAT WITH ORGANISER QUESTION
 ```How would you rate your chat with the event organiser? Please score between 1 (poor) and 5 (excellent)```
 
 REMINDER
+
 ```⏰ Hi there! Just a reminder that the meeting with Divest Hackney at Hackney Town Hall, Mare Street, E8 1EA  is at 6 PM today!```
 
 POST EVENT FEEDBACK - NEXT DAY
+
 ```Hi there! We were wondering if you attended your event yesterday?```
 > IF NO
 ```That's OK! If possible, can you let us know the reason for not attending? Finding out more about why people choose not to attend events will help us improve our product.```
@@ -85,7 +99,9 @@ POST EVENT FEEDBACK - NEXT DAY
 ``` How likely are you to continue going to these events? Please score between 1 (very unlikely) and 5 (very likely)```
 ```Is there any other feedback you would like to give on this event?```
 ```Thanks so much, you’ve been really awesome! 👏👏👏👏. We’ve got three golden tickets for people to join our _Movement_ Beta - To let people get involved, just give them this link: 🎫 LINK```
+
 PLAY AGAIN
+
 ```There are always plenty more events, groups and political actions to explore in Movement. We can help you find the perfect one. Do you want to try again?```
 ```That’s great!```
 > IF YES
@@ -96,11 +112,13 @@ Record user feedback
 ```Great! Thanks so much.```
 
 ATTEMPT FOR PAYMENT
+
 ```Help _Movement_ expand beyond Hackney - bringing you more events, campaigns and actions near you by donating the price of one take away coffee a month INSERT LINK.```
 ``` _Movement_ is activism for the 21st century - using cutting-edge technology to make big change happen by helping ordinary people becoming active. Politics is about doing things together. That’s why we need your help INSERT LINK.```
 ```We are going up against giants in the tech industry. If we have any hope of succeeding we need the support of our users to continue our work. By donating to _Movement_ you are helping us redefine how technology can aid activism INSERT LINK.```
 
 REQUEST FOR INFO: DIDN'T REPLY TO ISSUES
+
 Hi, I'm X, Head of Y at Movement.
 (Are you able to talk?)
 I'm trying to speak with every user of the service so we can make it better for future users.
@@ -115,6 +133,7 @@ Would you consider continuing using the service after this chat?
 If not, how might we convince you to return to the service.
 
 STREET RECRUITING
+
 Hiya, do you live nearby?
 Do you have 30 seconds to talk about a prototype app for politics?
 Great.
@@ -135,7 +154,7 @@ Ok, thanks!
 
 > THEY SAY THEY AREN'T IN HACKNEY
 ```That's okay. We have events around the city and we will find you something. Just pick an issue.```
-````
+```That's okay. We have events and groups around the city and we will find you something. Just pick an issue.```
 
 # System to Organiser With User
 
@@ -174,3 +193,4 @@ User clicks link
 `Just as <NAME OF FRIEND> got a golden ticket, you’ve got three golden tickets for people to join our _Movement_ beta. To let people get involved, just give them this link: https://movement.commons.coop/`
 `This link is unique to you.The more people you invite the faster this grows and the faster we can change things in Hackney and beyond.`
 `Thanks so much! We really appreciate it!`
+````
