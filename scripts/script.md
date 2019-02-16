@@ -1,10 +1,6 @@
 # System to User
 
-> Add user number to group chat system
-
-> Set chat name to: Movement
-
-> Set chat description to: Chatting with Movement. Movement is a beta app from Common Knowledge, a cooperative based in Hackney.
+> Message user directly on WhatsApp
 
 - Welcome to Movement! I'm [NAME] from the team, here to get you started. To begin with we need to know a couple of things to match you with events and campaigns in your area. Any questions you have just let me know.
 
