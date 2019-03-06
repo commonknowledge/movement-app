@@ -29,3 +29,9 @@ We've made the decision to run this script again with another few users and see 
 - _Rent is Just Too High_ - East London is bad. In Hackney for example people spent on average 140% of their take home pay on rent.
 - _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
+
+## Person picked RENT
+
+- Ok, here's what you can do.
+- The London Renters Union agrees that the rent is too high. Londoners face the highest rents in Europe. Many of us live with the threat of eviction or in unsafe housing.
+- So how do you feel about coming along to the Hackney branch’s next public meeting? It’s this *Saturday from 12:00 pm - 2:00 pm, at Roundchapel, 1D Glenarm Rd, E5 0LY*. You can talk about any housing problems you face and learn how we can make London a better place for renters.
