@@ -20,7 +20,7 @@ At the moment we are concentrating on getting people over the barrier of being c
 
 ## Different Pathways
 
-You can see the [first version of the script](https://github.com/commonknowledge/movement-app/blob/master/scripts/Script.xlsx) in this repository.
+You can see the [first version of the script](scripts/script.md) in this repository.
 
 We aren't quite sure of the best approach to connect local people with grassroots organisers, so we are trying multiple approaches and seeing which are the most effective.
 
