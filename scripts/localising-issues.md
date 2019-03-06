@@ -14,6 +14,10 @@ This seems more successful than the pathway than the list of "problem areas" the
 
 We get a stronger signal of preference here, which suggests to us the user would be more inclined to go as there is a higher affinity between the user and the group.
 
+## Next Steps
+
+We've made the decision to run this script again with another few users and see if we can move things along further.
+
 ## Script
 
 - Welcome to Movement! I'm Alex from the team, here to get you started.
