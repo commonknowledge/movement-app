@@ -10,13 +10,7 @@ When users are sure they can make an event, the conversion rate (expectation: 10
 
 ## Observations
 
-This seems more successful than the pathway than the list of "problem areas" the the [original script](./script.md). People in the "problem areas" tended to give all of them and even supplement them with additional terms, so this was not useful for making a match. It also shows that at this stage our users are interested in helping out with anything.
-
-We get a stronger signal of preference here, which suggests to us the user would be more inclined to go as there is a higher affinity between the user and the group.
-
 ## Next Steps
-
-We've made the decision to run this script again with another few users and see if we can move things along further.
 
 ## Script
 
