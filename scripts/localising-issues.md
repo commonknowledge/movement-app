@@ -49,3 +49,8 @@ We've made the decision to run this script again with another few users and see 
     [what are they doing and where — event / series of events / the next few events]
     What it involves is [???].
     [Social proof] They are an extremely friendly bunch and we've already matched some people in Movement with them.
+
+### User was interested in volunteering
+- Yes, definitely! They're always in need of volunteers.
+- On Sunday they'll be giving out warm food and drinks for _Jamming For Change_, outside Shoreditch High Street station. They'll show you what to do and you could even bring an instrument to join in the jam.
+- Are you game to meet them at *3.50pm on Sunday* to get involved?
