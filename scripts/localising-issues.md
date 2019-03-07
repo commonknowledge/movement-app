@@ -21,7 +21,7 @@ We've made the decision to run this script again with another few users and see 
 ## Script
 
 - Welcome to Movement! I'm Alex from the team, here to get you started.
-- What we need to start off is where you work, study, live or hang out in London roughly. For example, you might say Hackney, anywhere in central or South London. We we will match you with 3 major issues in that area right now. Then you can say which issue you want to fix and then we will give you all the info you need to get involved!
+- What we need to start off is where you work, study, live or hang out in London roughly. For example, you might say Hackney, anywhere in central or South London. We will match you with 3 major issues in that area right now. Then you can say which issue you want to fix and then we will give you all the info you need to get involved!
 - Are you up for it? If not let us know and we can try something else to get you involved. 🙂
 
 ## Local Issues To Highlight
