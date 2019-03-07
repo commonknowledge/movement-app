@@ -19,3 +19,9 @@ When users are sure they can make an event, the conversion rate (expectation: 10
 - 2. Are you free on either Saturday or Sunday afternoon?
 
 > Saturday and Sunday are both established events people have already committed to going to.
+
+## Person isn't available this weekend / in the area we were looking for
+
+> We go back to the normal [availability script](./availability.md)
+
+- Ok, no worries! Tell me three times in the next month you'd be free - something like "Tuesday evenings" or "next Saturday."
