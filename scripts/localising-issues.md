@@ -35,8 +35,9 @@ We've made the decision to run this script again with another few users and see 
 ## Person picked an issue with sparse events (e.g. rent)
 
 - Ok, here's what you can do.
-- The London Renters Union agrees that the rent is too high. Londoners face the highest rents in Europe. Many of us live with the threat of eviction or in unsafe housing.
-- So how do you feel about coming along to the Hackney branch’s next public meeting? It’s this *Saturday from 12:00 pm - 2:00 pm, at Roundchapel, 1D Glenarm Rd, E5 0LY*. You can talk about any housing problems you face and learn how we can make London a better place for renters.
+- [How the group agrees with your issue] [their political line]
+- So how do you feel about coming along to [event and details]. You can [functional and progress jobs done by going to the event].
+- [describe the organisers composition]
 
 ## Person picked an issue with regular volunteer options
 
