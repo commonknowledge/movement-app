@@ -24,14 +24,12 @@ We've made the decision to run this script again with another few users and see 
 - What we need to start off is where you work, study, live or hang out in London roughly. For example, you might say Hackney, anywhere in central or South London. We we will match you with 3 major issues in that area right now. Then you can say which issue you want to fix and then we will give you all the info you need to get involved!
 - Are you up for it? If not let us know and we can try something else to get you involved. 🙂
 
-## Local Issues To Highlight
+## Person wasn't from our Area of Operation (London)
 
-- _Rent is Just Too High_ - East London is bad. In Hackney for example people spent on average 140% of their take home pay on rent.
-- _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
-- _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
+**Hypothesis: by spelling out how committed we are to hooking them up, they will feel a commitment to reflect the efforts, and will not flake**
+**Hypothesis: repeating "get involved" will callback to the core job in peoples' heads, and will be more effective than annoying**
 
-## Person picked RENT
-
-- Ok, here's what you can do.
-- The London Renters Union agrees that the rent is too high. Londoners face the highest rents in Europe. Many of us live with the threat of eviction or in unsafe housing.
-- So how do you feel about coming along to the Hackney branch’s next public meeting? It’s this *Saturday from 12:00 pm - 2:00 pm, at Roundchapel, 1D Glenarm Rd, E5 0LY*. You can talk about any housing problems you face and learn how we can make London a better place for renters.
+- Hey, we're really sorry we've taken so long to reply.
+- As you know this is a prototype service and we're currently focused on London.
+- But we were excited that people from outside the area were getting involved. Since we're all activists in the office, we figured we'd be able to get in touch with friends in Liverpool who could make recommendations really quickly.
+- But it's taking a bit longer than expected! We're really determined to get you involved and learn how we can do this from a distance. We'll get back to you really soon, but meanwhile it'd be really useful to know where you heard about Movement?
