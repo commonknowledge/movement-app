@@ -30,8 +30,21 @@ We've made the decision to run this script again with another few users and see 
 - _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
 
-## Person picked RENT
+# Person picked an option
+
+## Person picked an issue with sparse events (e.g. rent)
 
 - Ok, here's what you can do.
 - The London Renters Union agrees that the rent is too high. Londoners face the highest rents in Europe. Many of us live with the threat of eviction or in unsafe housing.
 - So how do you feel about coming along to the Hackney branch’s next public meeting? It’s this *Saturday from 12:00 pm - 2:00 pm, at Roundchapel, 1D Glenarm Rd, E5 0LY*. You can talk about any housing problems you face and learn how we can make London a better place for renters.
+
+## Person picked an issue with regular volunteer options
+
+- "Tell me more about the homelessness project?"
+    [practical function of relevant group (e.g. Streets Kitchen give out food)]
+    [composition and context of group (e.g. volunteers)]
+    [political function of group (e.g. Streets Kitchen fulfills the rights of people to eat)]
+- The recommendation
+    [what are they doing and where — event / series of events / the next few events]
+    What it involves is [???].
+    [Social proof] They are an extremely friendly bunch and we've already matched some people in Movement with them.
