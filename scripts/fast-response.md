@@ -37,5 +37,9 @@ Hi [NAME], welcome to Movement! I'm Jan from the team, here to get you started. 
 1. We'd love for you to get involved in helping us kickstart our community forum for UK-wide organising and our efforts to co-design a digital platform for political activism. Check it out, introduce yourself and keep in touch: https://community.movement.chat
 
 2. You can help us out right now by referring a few people you know, who want to get involved but don't know how, via this referral link. Just click the link and pick the Whatsapp contacts to send to: [LINK]
+> get link by posting this in the browser console:
+```
+console.log("https://api.whatsapp.com/send?text="+encodeURIComponent("I just tried Movement, a service which gets you involved as fast as possible with grassroots activism, so you can put your principles into practice. Recommend you check it out: https://commonknowledge.coop/movement?code=Welcome🙌084b17c631047d276532f39b23dd60a4"))
+```
 
 3. After that, it'd be really useful to learn more about your situation, the kind of activism do you do, and what attracted you to Movement?
