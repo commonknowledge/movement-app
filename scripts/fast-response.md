@@ -10,12 +10,15 @@ We subtly expose their availability.
 
 - Hi ***, welcome to Movement! I'm Alex from the team, here to get you started.
 - Since you said you're available on Saturday and Sunday and you wanted to get involved, here's my best recommendation for you.
-CONTEXT - London Renters' Union is a member-led, campaigning union taking action to transform the housing system and win homes for people, not for private profit.
-HUMAN ACTION REQUEST - END WITH STRONG 'WHY SHOULD I CARE' - This Saturday, join these housing activists to raise awareness for the campaign to save the Ridley Road street market, a vital community asset threatened by gentrification.
-WHERE - They're meeting *Saturday from 1200-1400*, at Dalston Kingsland Overground Station in Hackney. Say whether you're up for it and we'll give you all the details you need to get involved.
+> CONTEXT
+- London Renters' Union is a member-led, campaigning union taking action to transform the housing system and win homes for people, not for private profit.
+> HUMAN ACTION REQUEST - END WITH STRONG 'WHY SHOULD I CARE'
+- This Saturday, join these housing activists to raise awareness for the campaign to save the Ridley Road street market, a vital community asset threatened by gentrification.
+> WHERE
+- They're meeting *Saturday from 1200-1400*, at Dalston Kingsland Overground Station in Hackney. Say whether you're up for it and we'll give you all the details you need to get involved.
 
-SAYING WHAT HAPPENS NEXT SEEMS TO ELICIT RESPONSE
-REMOVE FROM THE EQUATION THE IDEA THAT THEY WOULDN'T GO - AVOID "ALL THE DETAILS YOU >WILL< NEED TO..."
+> SAYING WHAT HAPPENS NEXT SEEMS TO ELICIT RESPONSE
+> REMOVE FROM THE EQUATION THE IDEA THAT THEY WOULDN'T GO - AVOID "ALL THE DETAILS YOU >WILL< NEED TO..."
 
 
 ### They said 'maybe'
