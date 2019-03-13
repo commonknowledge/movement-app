@@ -15,8 +15,12 @@ When users are sure they can make an event, the conversion rate (expectation: 10
 ## Script
 
 - Welcome to Movement! I'm Alex from the team, here to get you involved. Two quick questions:
-- 1. Where do you work, study, live or hang out in London roughly. E.g. Hackney, central or South London.
-- 2. Are you free on either Saturday or Sunday afternoon?
+1. Where do you work, study, live or hang out in London roughly. E.g. Hackney, central or South London.
+2. Are you free on either Saturday or Sunday afternoon?
+
+### If they self-report as activists / organisers / regular attenders...
+
+3. What kind of activism or political work do you get up to already?
 
 > Saturday and Sunday are both established events people have already committed to going to.
 
