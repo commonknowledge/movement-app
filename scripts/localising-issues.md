@@ -30,6 +30,12 @@ We've made the decision to run this script again with another few users and see 
 - _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
 
+packet two
+
+- _Hackney Council Declares Climate Emergency_ - It was the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
+- _Stop the Far Right_ - Brexit is happening and this sadly means the far-right are mobilising on the street.
+- _It's Over A Decade Since The Financial Crisis_ - And too little has changed.
+
 
 # Person picked an option
 
