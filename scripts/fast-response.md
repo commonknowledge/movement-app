@@ -9,7 +9,7 @@ We subtly expose their availability.
 ### They 'want to get involved'
 
 - Hi ***, welcome to Movement! I'm Alex from the team, here to get you started.
-- Since you said you're available on Saturday and Sunday and you wanted to get involved, here's my best recommendation for you.
+- Since you said you're available this Saturday and Sunday and you wanted to get involved, here's my best recommendation for you.
 > CONTEXT
 - London Renters' Union is a member-led, campaigning union taking action to transform the housing system and win homes for people, not for private profit.
 > HUMAN ACTION REQUEST - END WITH STRONG 'WHY SHOULD I CARE'
