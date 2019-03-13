@@ -32,10 +32,10 @@ Hey ***, so you mentioned you want to maximise your impact as an activist, and y
 
 ### Outside Area of Operation (London)
 
-Hi James, welcome to Movement! I'm James from the team, here to get you started.
-Here's what you can you do since we haven't yet rolled out to Manchester. 
+Hi [NAME], welcome to Movement! I'm Jan from the team, here to get you started. Here's what you can you do since we haven't yet rolled out to [LOCATION].
 
-We'd love for you to get involved in helping us kickstart our community forum for UK-wide organising, check it out, introduce yourself and share your experiences here: https://community.movement.chat
+1. We'd love for you to get involved in helping us kickstart our community forum for UK-wide organising and our efforts to co-design a digital platform for political activism. Check it out, introduce yourself and keep in touch: https://community.movement.chat
 
+2. You can help us out right now by referring a few people you know, who want to get involved but don't know how, via this referral link. Just click the link and pick the Whatsapp contacts to send to: [LINK]
 
-You can help us out by referring a few people you know who want to get involved but don't know how via this referral link. Just click this WhatsApp link and pick your friends: <insert link>
+3. After that, it'd be really useful to learn more about your situation, the kind of activism do you do, and what attracted you to Movement?
