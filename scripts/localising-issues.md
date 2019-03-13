@@ -65,10 +65,15 @@ We've made the decision to run this script again with another few users and see 
     [practical function of relevant group (e.g. Streets Kitchen give out food)]
     [composition and context of group (e.g. volunteers)]
     [political function of group (e.g. Streets Kitchen fulfills the rights of people to eat)]
+
+    e.g. "Ok. Streets Kitchen are a group operating all across London that does daily outreaches of food, clothing and information. It is organised and run by volunteers, many of whom have been homeless and used a Streets Kitchen service themselves. To have food is a basic human right, and Streets Kitchen fulfils that right."
+
 - The recommendation
     [what are they doing and where — event / series of events / the next few events]
     What it involves is [???].
     [Social proof] They are an extremely friendly bunch and we've already matched some people in Movement with them.
+
+    e.g. "They are doing a kitchen on Saturday in Hackney, then another on Sunday. What it involves is preparing meals and then handing them out. They are an extremely friendly bunch and we've already matched some people in Movement with them."
 
 ### User was interested in volunteering
 - Yes, definitely! They're always in need of volunteers.
