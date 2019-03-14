@@ -26,16 +26,23 @@ We've made the decision to run this script again with another few users and see 
 
 ## Local Issues To Highlight
 
+#### packet 1
+
 - _Rent is Just Too High_ - East London is bad. In Hackney for example people spent on average 140% of their take home pay on rent.
 - _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
 
-packet two
+#### packet two
 
 - _Hackney Council Declares Climate Emergency_ - It was the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _Stop the Far Right_ - Brexit is happening and this sadly means the far-right are mobilising on the street.
 - _It's Over A Decade Since The Financial Crisis_ - And too little has changed.
 
+#### packet three — house always wins, with event dates specified
+
+1. This Saturday: Save Riddley Road Markets - This vital community asset is being threatened with closure, yet another case of gentrification.
+2. This Sunday: Fight back against racism - Sadly lots of far-right activity is expected the next few weeks, accelerated by Brexit. Whatever your views on Brexit, fascists on our streets make us all unsafe.
+3. On Sunday 7th April: Rent is Just Too High - East London is bad. In Hackney for example people spent on average 140% of their take home pay on rent.
 
 # Person picked an option
 
