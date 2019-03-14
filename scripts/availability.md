@@ -14,7 +14,7 @@ People are often not free on particular weeks, but happy to give a regular eveni
 
 ## Script
 - Welcome to Movement! I'm Alex from the team, here to get you started.
-- If you're up for it then tell three times of the week you are free in the next month - something like "Tuesday evenings" or "any Saturday in January".
+- If you're up for it then tell three times of the week you are free in the next month - something like "Tuesday evenings" or "any Saturday in March".
 - We'll match you up with a campaign that meets at that time so you can definitely make it. If that doesn't sound cool let us know why and we can try something else to get you involved. 🙂
 
 ## Legacy - if information on political preferences / location available
