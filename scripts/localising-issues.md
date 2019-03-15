@@ -28,7 +28,7 @@ We've made the decision to run this script again with another few users and see 
 
 #### packet 1
 
-- _Rent is Just Too High_ - East London is bad. In Hackney for example people spent on average 140% of their take home pay on rent.
+- _Rent is Just Too High_ - East London is bad. In Hackney for example people spent on average 114% of their take home pay on rent.
 - _Hackney Council Declares Climate Emergency_ - It's the hottest February on record compared to the coldest last year - that we need to get serious about climate change.
 - _End Homelessness in Hackney_ - Hackney is one of the ten worst areas in the UK for homelessness.
 
